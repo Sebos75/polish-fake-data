@@ -109,12 +109,10 @@ Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values (
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('343','istola','Ireneusz','Stolarczyk ','3','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('344','gmicha','Gabriela','Michalak ','4','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('345','ikrzes','Igor','Krzesiński','3','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('347','jleszc','Jacek','Leszczyński','6','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('348','ljanik','Leszek','Janik','4','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('350','rpawło','Robert','Pawłowski','3','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('352','hwiśni','Henryk','Wiśniewski','7','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('353','pjanik','Piotr','Janik','9','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('354','mwiśni','Małgorzata','Wiśniewska','9','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('356','mmazur','Marta','Mazur','1','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('357','dwesoł','Dorota','Wesołowska','5','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('359','lstola','Leszek','Stolarczyk ','10','aktywny');
@@ -130,19 +128,15 @@ Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values (
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('375','rjasiń','Ryszard','Jasiński','7','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('642','rjanko','Renata','Jankowska','9','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('409','rolsze','Ryszard','Olszewski','4','nieaktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('410','imarci','Irena','Marciniak','10','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('412','mborow','Mateusz','Borowski','9','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('413','mkowal','Marzena','Kowalczyk','9','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('414','mzalew','Marta','Zalewska','9','nieaktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('416','rolsze','Radosław','Olszewski','7','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('417','agrabo','Artur','Grabowski','1','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('419','msikor','Marzena','Sikorska ','9','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('421','rkowal','Renata','Kowalczyk','3','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('423','mstępi','Mateusz','Stępień','4','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('424','akrzes','Arkadiusz','Krzesiński','1','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('425','lgajew','Leszek','Gajewski','6','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('427','mszymc','Marek','Szymczak ','5','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('428','mkołod','Mateusz','Kołodziej','3','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('430','twesoł','Tadeusz','Wesołowski','4','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('431','durban','Dominika','Urbaniak','5','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('434','aszyma','Anna Maria','Szymańska','6','aktywny');
@@ -151,7 +145,6 @@ Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values (
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('438','pbąkow','Patryk','Bąkowski','5','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('439','jzieli','Joanna','Zielińska','9','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('441','njanko','Norbert','Jankowski','1','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('442','mmicha','Mateusz','Michalski','9','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('443','gmalin','Grzegorz','Malinowski','4','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('444','dadamc','Dariusz','Adamczak','9','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('447','tgłowa','Tomasz','Głowacki','8','aktywny');
@@ -162,7 +155,6 @@ Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values (
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('454','jszulc','Jacek','Szulc','5','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('455','pwoźni','Patrycja','Woźniak','3','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('458','ewalcz','Edyta','Walczak','7','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('459','mbrzez','Marek','Brzeziński','8','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('461','cskowr','Cezary','Skowroński','1','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('462','awiśni','Adrian','Wiśniewski','4','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('463','kmazur','Kinga','Mazur','5','aktywny');
@@ -170,16 +162,13 @@ Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values (
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('466','jjaros','Jacek','Jarosz','5','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('467','jsobcz','Justyna','Sobczak','6','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('468','łpiotr','Łukasz','Piotrowski','6','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('469','jzieli','Jolanta','Zielińska','4','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('470','kmacie','Karolina','Maciejewska','1','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('471','ajanko','Agnieszka','Jankowska','8','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('472','mwesoł','Marta','Wesołowska','2','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('473','kstank','Kinga','Stankiewicz','4','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('474','emazur','Elżbieta','Mazur','3','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('475','kzakrz','Krzysztof','Zakrzewski','8','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('476','pkaczm','Paulina','Kaczmarek','1','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('477','agłowa','Anita','Głowacka','1','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('478','aszyma','Agnieszka','Szymańska','1','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('479','nbaran','Natalia','Baran','3','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('480','wświde','Wojciech','Świderski ','1','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('481','arosiń','Anna Maria','Rosińska','9','aktywny');
@@ -189,10 +178,8 @@ Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values (
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('485','ppasie','Paulina','Pasieka','8','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('486','mleszc','Mateusz','Leszczyński','8','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('487','mrogow','Mariusz','Rogowski','7','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('488','kkaczm','Krystyna','Kaczmarek','6','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('489','dzalew','Daniel','Zalewski','3','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('490','mjaros','Marek','Jarosz','3','nieaktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('491','kpiotr','Katarzyna','Piotrowska','2','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('492','kszyma','Karolina','Szymańska','7','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('493','rświde','Rafał','Świderski ','9','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('494','mwrona','Mirosław','Wrona ','4','aktywny');
@@ -208,20 +195,15 @@ Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values (
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('504','dkałuż','Dariusz','Kałuża ','10','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('505','gmrozo','Grzegorz','Mrozowski ','9','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('506','dborow','Dariusz','Borowicz ','1','nieaktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('507','kcieśl','Krystian','Cieślik ','2','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('508','mżukow','Marek','Żukowski','8','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('509','ikrawc','Ireneusz','Krawczak','5','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('510','nchmie','Norbert','Chmiel ','6','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('511','akozło','Agnieszka','Kozłowska','3','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('512','ssobol','Sylwia','Sobolewska','4','nieaktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('513','rświde','Ryszard','Świderski ','4','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('514','jkrzes','Jarosław','Krzesiński','2','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('515','gmarci','Gabriela','Marciniak','2','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('516','polsze','Paweł','Olszewski','9','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('517','kmakow','Kazimierz','Makowski','1','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('518','jwesoł','Justyna','Wesołowska','1','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('519','hjanik','Henryk','Janik','9','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('520','akrzes','Andrzej','Krzesiński','8','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('521','jkrupa','Julia','Krupa','8','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('522','ljasiń','Leszek','Jasiński','7','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('523','ezawad','Emilia','Zawadzka','2','aktywny');
@@ -239,9 +221,6 @@ Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values (
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('535','jmalin','Janusz','Malinowski','1','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('537','izawad','Izabela','Zawadzka','8','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('538','kwesoł','Katarzyna','Wesołowska','6','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('539','dmrozo','Dariusz','Mrozowski ','5','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('540','kgórsk','Kamila','Górska','3','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('541','kczajk','Kinga','Czajkowska','3','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('542','ssikor','Sylwia','Sikora','9','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('543','mmikoł','Marzena','Mikołajczyk','9','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('544','mmadej','Marzena','Madej','6','aktywny');
@@ -257,27 +236,19 @@ Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values (
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('556','jzakrz','Jakub','Zakrzewski','5','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('557','jwiśni','Janusz','Wiśniewski','8','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('558','jzawad','Julia','Zawadzka','1','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('559','mkołod','Mirosław','Kołodziej','7','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('560','mduda','Monika','Duda','9','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('561','mskowr','Marek','Skowroński','3','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('563','jsawic','Justyna','Sawicka','9','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('564','hcieśl','Henryk','Cieślak','10','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('565','ekozak','Elżbieta','Kozak','2','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('566','dstępi','Daniel','Stępień','3','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('567','aczarn','Aleksandra','Czarnecka','1','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('568','jwesoł','Janusz','Wesołowski','2','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('569','krogow','Kacper','Rogowski','7','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('570','anowak','Agata','Nowak','6','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('572','mrogow','Mirosław','Rogowski','3','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('573','dszymc','Daniel','Szymczak ','10','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('574','mmalin','Mariusz','Malinowski','7','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('575','mwróbe','Maria','Wróbel','4','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('576','pmróz','Paweł','Mróz','1','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('577','akaczm','Aleksandra','Kaczmarczyk','9','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('578','mkról','Małgorzata','Król','7','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('579','amikoł','Agnieszka','Mikołajczyk','10','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('580','ajanko','Anna Maria','Jankowska','9','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('582','aborow','Alicja','Borowska ','1','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('583','dzawad','Dorota','Zawadzka','8','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('584','iwitko','Irena','Witkowska','5','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('585','łkwiat','Łukasz','Kwiatkowski','8','aktywny');
@@ -288,8 +259,6 @@ Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values (
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('591','jkubic','Jan','Kubicki','6','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('592','aolsze','Alicja','Olszewska','1','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('593','mzając','Monika','Zając','8','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('594','mczarn','Mirosław','Czarnecki','3','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('595','jkrzes','Jakub','Krzesiński','3','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('596','ilewan','Ireneusz','Lewandowski','4','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('597','wżukow','Waldemar','Żukowski','1','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('599','gkrzes','Grzegorz','Krzesiński','8','aktywny');
@@ -300,11 +269,8 @@ Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values (
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('604','mcieśl','Michał','Cieślik ','4','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('605','aszulc','Adam','Szulc','10','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('606','apasze','Andrzej','Paszek','8','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('608','mbaran','Marek','Baranowski','4','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('609','mmicha','Marek','Michalski','3','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('610','atomas','Agata','Tomaszewska','2','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('611','skania','Sebastian','Kania','4','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('612','jwrona','Jan','Wrona ','3','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('613','mświde','Marek','Świderski ','2','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('614','akrupa','Anna','Krupa','4','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('615','csikor','Cezary','Sikorski','4','aktywny');
@@ -312,15 +278,12 @@ Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values (
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('618','wmarci','Wioletta','Marciniak','4','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('619','jpasze','Janusz','Paszek','3','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('620','rleśni','Radosław','Leśniak','9','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('621','ksobol','Klaudia','Sobolewska','9','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('623','dolsze','Dariusz','Olszewski','6','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('643','tnowic','Teresa','Nowicka','2','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('662','jszewc','Justyna','Szewczyk','4','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('682','ałucza','Agata','Łuczak','9','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('745','pmakow','Patrycja','Makowska','7','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('746','ujasiń','Urszula','Jasińska','10','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('747','jborko','Jakub','Borkowski ','6','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('748','ksobcz','Kinga','Sobczak','2','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('749','rjóźwi','Robert','Jóźwiak ','2','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('750','jrogow','Jan','Rogowski','8','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('782','rcieśl','Radosław','Cieślak','3','nieaktywny');
@@ -330,7 +293,6 @@ Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values (
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('847','eszyma','Ewa','Szymańska','9','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('846','bmikoł','Bartłomiej','Mikołajczak','9','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('848','iwiśni','Irena','Wiśniewska','10','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('849','kmalin','Klaudia','Malinowska','5','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('850','swilk','Sylwia','Wilk','9','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('308','akraje','Alicja','Krajewska ','10','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('313','agórec','Agnieszka','Górecka','2','aktywny');
@@ -353,13 +315,11 @@ Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values (
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('373','gjaros','Grzegorz','Jarosz','5','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('783','aszymc','Artur','Szymczak ','1','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('411','mpawło','Michał','Pawłowski','9','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('415','mbaran','Maria','Baran','2','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('418','kpiotr','Kamil','Piotrowski','6','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('422','igórsk','Izabela','Górska','10','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('426','jjasiń','Jakub','Jasiński','2','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('429','ikaspr','Irena','Kasprzak','1','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('433','mgajew','Maria','Gajewska','10','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('437','pmrozo','Paweł','Mrozowski ','7','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('440','dczarn','Damian','Czarnecki','2','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('445','kjanow','Krzysztof','Janowski ','8','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('449','kszcze','Karolina','Szczepańska ','6','aktywny');
@@ -373,7 +333,6 @@ Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values (
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('396','ksobcz','Krystyna','Sobczak','9','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('405','kgórsk','Krystyna','Górska','6','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('286','jpawli','Jacek','Pawlik','6','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('295','wwawrz','Weronika','Wawrzyniak','5','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('306','kjaros','Krzysztof','Jarosz','4','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('262','igajew','Irena','Gajewska','7','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('325','jkwiat','Jan','Kwiatkowski','7','nieaktywny');
@@ -392,8 +351,6 @@ Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values (
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('571','dgrzyb','Dominika','Grzybowska','1','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('581','tpolak','Tadeusz','Polak','5','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('589','ipiąte','Igor','Piątek','8','nieaktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('598','mczarn','Marcin','Czarnecki','9','aktywny');
-Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('607','iadamc','Irena','Adamczyk','1','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('616','wkwiat','Waldemar','Kwiatkowski','10','aktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('702','dleśni','Damian','Leśniak','4','nieaktywny');
 Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values ('803','jbedna','Janusz','Bednarski','5','aktywny');
@@ -402,6 +359,12 @@ Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values (
 --------------------------------------------------------
 
   CREATE UNIQUE INDEX "SYS_C0048732463" ON "EXAMPLE_USERS" ("ID") 
+  ;
+--------------------------------------------------------
+--  DDL for Index UQ_EXAMPLE_USERS_LOGIN
+--------------------------------------------------------
+
+  CREATE UNIQUE INDEX "UQ_EXAMPLE_USERS_LOGIN" ON "EXAMPLE_USERS" ("LOGIN") 
   ;
 --------------------------------------------------------
 --  Constraints for Table EXAMPLE_USERS
@@ -414,6 +377,8 @@ Insert into EXAMPLE_USERS (ID,LOGIN,IMIE,NAZWISKO,DEPARTMENT_ID,STATUS) values (
   ALTER TABLE "EXAMPLE_USERS" MODIFY ("NAZWISKO" NOT NULL ENABLE);
   ALTER TABLE "EXAMPLE_USERS" MODIFY ("DEPARTMENT_ID" NOT NULL ENABLE);
   ALTER TABLE "EXAMPLE_USERS" MODIFY ("STATUS" NOT NULL ENABLE);
+  ALTER TABLE "EXAMPLE_USERS" ADD CONSTRAINT "UQ_EXAMPLE_USERS_LOGIN" UNIQUE ("LOGIN")
+  USING INDEX  ENABLE;
 --------------------------------------------------------
 --  Ref Constraints for Table EXAMPLE_USERS
 --------------------------------------------------------

@@ -1,4 +1,4 @@
-"ID","LOGIN","IMIE","NAZWISKO","DEPARTMENT_ID","STATUS"
+"id","login","imie","nazwisko","department_id","status"
 22,"djanik","Daniel","Janik",7,"nieaktywny"
 42,"pmarcz","Piotr","Marczak ",3,"aktywny"
 43,"dchmie","Damian","Chmiel ",6,"aktywny"

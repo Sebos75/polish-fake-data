@@ -1,383 +1,383 @@
-"ID","LOGIN","IMIE","NAZWISKO","DEPARTMENT_ID"
-22,"djanik","Daniel","Janik",7
-42,"pmarcz","Piotr","Marczak ",3
-43,"dchmie","Damian","Chmiel ",6
-44,"apiąte","Arkadiusz","Piątek",8
-63,"jsawic","Julia","Sawicka",4
-62,"iwróbl","Iwona","Wróblewska",4
-21,"isikor","Izabela","Sikorska ",5
-82,"kkubic","Krystian","Kubicki",8
-222,"kmicha","Kinga","Michalak ",3
-243,"askiba","Artur","Skiba",10
-244,"mbaran","Mateusz","Baranowski",6
-245,"jsikor","Jolanta","Sikora",8
-376,"emałec","Elżbieta","Małecka",4
-377,"wpająk","Weronika","Pająk",2
-378,"lkazim","Leszek","Kazimierczak",9
-379,"mchrza","Monika","Chrzanowska",8
-380,"jmicha","Justyna","Michalska",8
-381,"pżukow","Patrycja","Żukowska",5
-382,"awoźni","Agata","Woźniak",9
-383,"dkołod","Dariusz","Kołodziejczyk ",6
-384,"kmarci","Kamila","Marciniak",2
-385,"ipiotr","Ireneusz","Piotrowski",6
-386,"kwitko","Kinga","Witkowska",6
-387,"tbrzez","Tomasz","Brzeziński",4
-388,"mwójci","Marta","Wójcik",9
-389,"tmajew","Tomasz","Majewski",9
-390,"rpolak","Ryszard","Polak",1
-391,"mskowr","Mariusz","Skowroński",3
-392,"djanko","Dariusz","Jankowski",1
-393,"jwesoł","Janusz","Wesołowski",6
-395,"zchmie","Zbigniew","Chmiel ",3
-396,"ksobcz","Krystyna","Sobczak",9
-397,"mmicha","Magdalena","Michalska",9
-398,"ujabło","Urszula","Jabłońska",3
-399,"mgrzyb","Marta","Grzybowska",6
-400,"zjasiń","Zbigniew","Jasiński",10
-401,"idudek","Iwona","Dudek",7
-402,"awiecz","Arkadiusz","Wieczorek",6
-403,"mkaźmi","Mariusz","Kaźmierczak",2
-404,"kkałuż","Krystian","Kałuża ",7
-405,"kgórsk","Krystyna","Górska",6
-406,"mdąbro","Marek","Dąbrowski",5
-407,"iadamc","Igor","Adamczak",3
-408,"mkołod","Marcin","Kołodziejczyk ",3
-142,"mkurow","Monika","Kurowska",6
-182,"pchmie","Paulina","Chmielewska",8
-282,"kkowal","Kacper","Kowalski",7
-283,"wmikoł","Wioletta","Mikołajczyk",3
-284,"aborow","Adrian","Borowski",6
-285,"kcieśl","Kamil","Cieślik ",8
-286,"jpawli","Jacek","Pawlik",6
-287,"mmróz","Mirosław","Mróz",4
-288,"ajabło","Adam","Jabłoński",9
-289,"aurbań","Artur","Urbański",8
-290,"mbrzez","Marek","Brzeziński",10
-291,"mczarn","Michał","Czarnecki",2
-292,"mwiśni","Marzena","Wiśniewska",5
-293,"eziółk","Edyta","Ziółkowska",9
-294,"awróbe","Agata","Wróbel",6
-295,"wwawrz","Weronika","Wawrzyniak",5
-296,"sczajk","Sebastian","Czajka",10
-297,"awójci","Aleksandra","Wójcik",7
-298,"iszulc","Ireneusz","Szulc",7
-299,"wczarn","Wioletta","Czarnecka",1
-300,"pmróz","Patryk","Mróz",2
-301,"dkrupa","Dorota","Krupa",1
-302,"abaran","Arkadiusz","Baranowski",7
-303,"dpawli","Daniel","Pawlik",10
-304,"spawło","Sebastian","Pawłowski",7
-305,"kzakrz","Kamila","Zakrzewska",1
-306,"kjaros","Krzysztof","Jarosz",4
-307,"wzalew","Weronika","Zalewska",4
-308,"akraje","Alicja","Krajewska ",10
-309,"jleśni","Jakub","Leśniak",1
-310,"mmacie","Michał","Maciejewski",8
-311,"pwalcz","Paulina","Walczak",7
-312,"gandrz","Grzegorz","Andrzejewski",4
-313,"agórec","Agnieszka","Górecka",2
-102,"jrożek","Jan","Rożek",6
-103,"rgórsk","Robert","Górski",4
-122,"eszcze","Elżbieta","Szczepańska ",6
-162,"mtomcz","Marcin","Tomczak",6
-262,"igajew","Irena","Gajewska",7
-314,"mpająk","Marta","Pająk",9
-315,"hstola","Henryk","Stolarczyk ",4
-316,"lgajew","Leszek","Gajewski",2
-317,"imarci","Irena","Marciniak",10
-318,"akozło","Andrzej","Kozłowski",3
-319,"rmikoł","Renata","Mikołajczyk",1
-320,"jpolak","Jarosław","Polak",2
-321,"jkołod","Janusz","Kołodziejczyk ",4
-322,"epająk","Elżbieta","Pająk",7
-323,"ibedna","Igor","Bednarski",2
-324,"dkrawc","Dominika","Krawczyk",8
-325,"jkwiat","Jan","Kwiatkowski",7
-326,"kmikoł","Krzysztof","Mikołajczak",8
-327,"alewan","Alicja","Lewandowska",6
-328,"apawla","Aleksandra","Pawlak ",10
-329,"asikor","Anna Maria","Sikora",3
-330,"sżukow","Sebastian","Żukowski",3
-331,"jleszc","Jakub","Leszczyński",8
-332,"ksobol","Krystian","Sobolewski ",1
-333,"achrza","Anna Maria","Chrzanowska",6
-334,"emikoł","Emilia","Mikołajczyk",5
-335,"adąbro","Anita","Dąbrowska",9
-336,"tjanow","Tadeusz","Janowski ",3
-337,"ljanow","Leszek","Janowski ",1
-338,"jurban","Julia","Urbaniak",2
-339,"mmajew","Mirosław","Majewski",9
-340,"mczerw","Maria","Czerwińska",5
-341,"pjabło","Patryk","Jabłoński",5
-342,"pmrozo","Patryk","Mrozowski ",10
-202,"wwawrz","Weronika","Wawrzyniak",5
-343,"istola","Ireneusz","Stolarczyk ",3
-344,"gmicha","Gabriela","Michalak ",4
-345,"ikrzes","Igor","Krzesiński",3
-346,"mjasiń","Magdalena","Jasińska",9
-347,"jleszc","Jacek","Leszczyński",6
-348,"ljanik","Leszek","Janik",4
-349,"spasie","Sylwia","Pasieka",2
-350,"rpawło","Robert","Pawłowski",3
-351,"twróbl","Tadeusz","Wróblewski",10
-352,"hwiśni","Henryk","Wiśniewski",7
-353,"pjanik","Piotr","Janik",9
-354,"mwiśni","Małgorzata","Wiśniewska",9
-355,"akowal","Anna","Kowalska",1
-356,"mmazur","Marta","Mazur",1
-357,"dwesoł","Dorota","Wesołowska",5
-358,"wurban","Weronika","Urbaniak",1
-359,"lstola","Leszek","Stolarczyk ",10
-360,"kczajk","Karolina","Czajkowska",10
-361,"slis","Szymon","Lis",2
-362,"ibaran","Izabela","Baran",2
-363,"gpawla","Grażyna","Pawlak ",1
-364,"kkaczm","Karolina","Kaczmarczyk",8
-365,"amicha","Adam","Michalski",5
-366,"pskals","Patryk","Skalski",9
-367,"amazur","Adam","Mazurek",8
-368,"awrona","Adam","Wrona ",1
-369,"kbaran","Klaudia","Baran",3
-370,"bsosno","Bartosz","Sosnowski",7
-371,"gwesoł","Grzegorz","Wesołowski",4
-372,"knowak","Krzysztof","Nowakowski",3
-373,"gjaros","Grzegorz","Jarosz",5
-374,"eczajk","Emilia","Czajkowska",5
-375,"rjasiń","Ryszard","Jasiński",7
-642,"rjanko","Renata","Jankowska",9
-783,"aszymc","Artur","Szymczak ",1
-409,"rolsze","Ryszard","Olszewski",4
-410,"imarci","Irena","Marciniak",10
-411,"mpawło","Michał","Pawłowski",9
-412,"mborow","Mateusz","Borowski",9
-413,"mkowal","Marzena","Kowalczyk",9
-414,"mzalew","Marta","Zalewska",9
-415,"mbaran","Maria","Baran",2
-416,"rolsze","Radosław","Olszewski",7
-417,"agrabo","Artur","Grabowski",1
-418,"kpiotr","Kamil","Piotrowski",6
-419,"msikor","Marzena","Sikorska ",9
-420,"gpiase","Grzegorz","Piasecki",9
-421,"rkowal","Renata","Kowalczyk",3
-422,"igórsk","Izabela","Górska",10
-423,"mstępi","Mateusz","Stępień",4
-424,"akrzes","Arkadiusz","Krzesiński",1
-425,"lgajew","Leszek","Gajewski",6
-426,"jjasiń","Jakub","Jasiński",2
-427,"mszymc","Marek","Szymczak ",5
-428,"mkołod","Mateusz","Kołodziej",3
-429,"ikaspr","Irena","Kasprzak",1
-430,"twesoł","Tadeusz","Wesołowski",4
-431,"durban","Dominika","Urbaniak",5
-432,"jkaźmi","Jacek","Kaźmierczak",5
-433,"mgajew","Maria","Gajewska",10
-434,"aszyma","Anna Maria","Szymańska",6
-435,"pzalew","Patryk","Zalewski",6
-436,"tzalew","Tomasz","Zalewski",7
-437,"pmrozo","Paweł","Mrozowski ",7
-438,"pbąkow","Patryk","Bąkowski",5
-439,"jzieli","Joanna","Zielińska",9
-440,"dczarn","Damian","Czarnecki",2
-441,"njanko","Norbert","Jankowski",1
-442,"mmicha","Mateusz","Michalski",9
-443,"gmalin","Grzegorz","Malinowski",4
-444,"dadamc","Dariusz","Adamczak",9
-445,"kjanow","Krzysztof","Janowski ",8
-446,"rparty","Robert","Partyka",1
-447,"tgłowa","Tomasz","Głowacki",8
-448,"mjastr","Maria","Jastrzębska ",3
-449,"kszcze","Karolina","Szczepańska ",6
-450,"wwrona","Waldemar","Wrona ",7
-451,"bgórec","Barbara","Górecka",4
-452,"emakow","Ewelina","Makowska",2
-453,"mpolak","Marcin","Polak",8
-454,"jszulc","Jacek","Szulc",5
-455,"pwoźni","Patrycja","Woźniak",3
-456,"dmrozo","Daniel","Mrozowski ",2
-457,"jwrona","Jacek","Wrona ",6
-458,"ewalcz","Edyta","Walczak",7
-459,"mbrzez","Marek","Brzeziński",8
-460,"pleśni","Piotr","Leśniak",5
-461,"cskowr","Cezary","Skowroński",1
-462,"awiśni","Adrian","Wiśniewski",4
-463,"kmazur","Kinga","Mazur",5
-464,"jtarno","Janusz","Tarnowski",4
-465,"rtomcz","Robert","Tomczak",6
-466,"jjaros","Jacek","Jarosz",5
-467,"jsobcz","Justyna","Sobczak",6
-468,"łpiotr","Łukasz","Piotrowski",6
-469,"jzieli","Jolanta","Zielińska",4
-470,"kmacie","Karolina","Maciejewska",1
-471,"ajanko","Agnieszka","Jankowska",8
-472,"mwesoł","Marta","Wesołowska",2
-473,"kstank","Kinga","Stankiewicz",4
-474,"emazur","Elżbieta","Mazur",3
-475,"kzakrz","Krzysztof","Zakrzewski",8
-476,"pkaczm","Paulina","Kaczmarek",1
-477,"agłowa","Anita","Głowacka",1
-478,"aszyma","Agnieszka","Szymańska",1
-479,"nbaran","Natalia","Baran",3
-480,"wświde","Wojciech","Świderski ",1
-481,"arosiń","Anna Maria","Rosińska",9
-482,"mmakow","Marta","Makowska",8
-483,"wsobcz","Weronika","Sobczak",5
-484,"kwłoda","Kamila","Włodarczyk ",8
-485,"ppasie","Paulina","Pasieka",8
-486,"mleszc","Mateusz","Leszczyński",8
-487,"mrogow","Mariusz","Rogowski",7
-488,"kkaczm","Krystyna","Kaczmarek",6
-489,"dzalew","Daniel","Zalewski",3
-490,"mjaros","Marek","Jarosz",3
-491,"kpiotr","Katarzyna","Piotrowska",2
-492,"kszyma","Karolina","Szymańska",7
-493,"rświde","Rafał","Świderski ",9
-494,"mwrona","Mirosław","Wrona ",4
-495,"agrzyb","Agnieszka","Grzybowska",5
-496,"ppolak","Piotr","Polak",7
-497,"kszewc","Kamila","Szewczyk",4
-498,"iwłoda","Igor","Włodarczyk",9
-499,"rtarno","Radosław","Tarnowski",4
-500,"jstola","Jacek","Stolarczyk ",1
-501,"kpasie","Karolina","Pasieka",1
-502,"tnowic","Teresa","Nowicka",5
-503,"rkrzes","Ryszard","Krzesiński",4
-504,"dkałuż","Dariusz","Kałuża ",10
-505,"gmrozo","Grzegorz","Mrozowski ",9
-506,"dborow","Dariusz","Borowicz ",1
-507,"kcieśl","Krystian","Cieślik ",2
-508,"mżukow","Marek","Żukowski",8
-509,"ikrawc","Ireneusz","Krawczak",5
-510,"nchmie","Norbert","Chmiel ",6
-511,"akozło","Agnieszka","Kozłowska",3
-512,"ssobol","Sylwia","Sobolewska",4
-513,"rświde","Ryszard","Świderski ",4
-514,"jkrzes","Jarosław","Krzesiński",2
-515,"gmarci","Gabriela","Marciniak",2
-516,"polsze","Paweł","Olszewski",9
-517,"kmakow","Kazimierz","Makowski",1
-518,"jwesoł","Justyna","Wesołowska",1
-519,"hjanik","Henryk","Janik",9
-520,"akrzes","Andrzej","Krzesiński",8
-521,"jkrupa","Julia","Krupa",8
-522,"ljasiń","Leszek","Jasiński",7
-523,"ezawad","Emilia","Zawadzka",2
-524,"itomcz","Igor","Tomczak",2
-525,"iczerw","Iwona","Czerwińska",4
-526,"kwojci","Karolina","Wojciechowska",3
-527,"pdudek","Patrycja","Dudek",8
-528,"apasie","Anna Maria","Pasieka",7
-529,"rbaran","Ryszard","Baranowski",1
-530,"jłucza","Julia","Łuczak",2
-531,"mkubic","Marzena","Kubicka",1
-532,"isosno","Ireneusz","Sosnowski",1
-533,"dgłowa","Damian","Głowacki",6
-534,"jbrzez","Jacek","Brzeziński",7
-535,"jmalin","Janusz","Malinowski",1
-536,"wpawli","Waldemar","Pawlik",7
-537,"izawad","Izabela","Zawadzka",8
-538,"kwesoł","Katarzyna","Wesołowska",6
-539,"dmrozo","Dariusz","Mrozowski ",5
-540,"kgórsk","Kamila","Górska",3
-541,"kczajk","Kinga","Czajkowska",3
-542,"ssikor","Sylwia","Sikora",9
-543,"mmikoł","Marzena","Mikołajczyk",9
-544,"mmadej","Marzena","Madej",6
-545,"atomcz","Adam","Tomczak",4
-546,"zskiba","Zbigniew","Skiba",3
-547,"mskals","Mariusz","Skalski",5
-548,"jurbań","Jarosław","Urbański",9
-549,"awłoda","Anna Maria","Włodarczyk ",5
-550,"uwilk","Urszula","Wilk",3
-551,"epiotr","Ewelina","Piotrowska",4
-552,"akwiat","Agnieszka","Kwiatkowska",1
-553,"pkozak","Paulina","Kozak",5
-554,"awalcz","Anita","Walczak",6
-555,"abedna","Aleksandra","Bednarska",2
-556,"jzakrz","Jakub","Zakrzewski",5
-557,"jwiśni","Janusz","Wiśniewski",8
-558,"jzawad","Julia","Zawadzka",1
-559,"mkołod","Mirosław","Kołodziej",7
-560,"mduda","Monika","Duda",9
-561,"mskowr","Marek","Skowroński",3
-562,"jkubia","Jarosław","Kubiak",3
-563,"jsawic","Justyna","Sawicka",9
-564,"hcieśl","Henryk","Cieślak",10
-565,"ekozak","Elżbieta","Kozak",2
-566,"dstępi","Daniel","Stępień",3
-567,"aczarn","Aleksandra","Czarnecka",1
-568,"jwesoł","Janusz","Wesołowski",2
-569,"krogow","Kacper","Rogowski",7
-570,"anowak","Agata","Nowak",6
-571,"dgrzyb","Dominika","Grzybowska",1
-572,"mrogow","Mirosław","Rogowski",3
-573,"dszymc","Daniel","Szymczak ",10
-574,"mmalin","Mariusz","Malinowski",7
-575,"mwróbe","Maria","Wróbel",4
-576,"pmróz","Paweł","Mróz",1
-577,"akaczm","Aleksandra","Kaczmarczyk",9
-578,"mkról","Małgorzata","Król",7
-579,"amikoł","Agnieszka","Mikołajczyk",10
-580,"ajanko","Anna Maria","Jankowska",9
-581,"tpolak","Tadeusz","Polak",5
-582,"aborow","Alicja","Borowska ",1
-583,"dzawad","Dorota","Zawadzka",8
-584,"iwitko","Irena","Witkowska",5
-585,"łkwiat","Łukasz","Kwiatkowski",8
-586,"zgórsk","Zbigniew","Górski",3
-587,"kmalin","Katarzyna","Malinowska",6
-588,"mkrawc","Małgorzata","Krawczyk",3
-589,"ipiąte","Igor","Piątek",8
-590,"jzając","Joanna","Zając",7
-591,"jkubic","Jan","Kubicki",6
-592,"aolsze","Alicja","Olszewska",1
-593,"mzając","Monika","Zając",8
-594,"mczarn","Mirosław","Czarnecki",3
-595,"jkrzes","Jakub","Krzesiński",3
-596,"ilewan","Ireneusz","Lewandowski",4
-597,"wżukow","Waldemar","Żukowski",1
-598,"mczarn","Marcin","Czarnecki",9
-599,"gkrzes","Grzegorz","Krzesiński",8
-600,"bgłowa","Beata","Głowacka",1
-601,"kkraje","Klaudia","Krajewska ",9
-602,"molsze","Monika","Olszewska",6
-603,"kłukas","Katarzyna","Łukasik",1
-604,"mcieśl","Michał","Cieślik ",4
-605,"aszulc","Adam","Szulc",10
-606,"apasze","Andrzej","Paszek",8
-607,"iadamc","Irena","Adamczyk",1
-608,"mbaran","Marek","Baranowski",4
-609,"mmicha","Marek","Michalski",3
-610,"atomas","Agata","Tomaszewska",2
-611,"skania","Sebastian","Kania",4
-612,"jwrona","Jan","Wrona ",3
-613,"mświde","Marek","Świderski ",2
-614,"akrupa","Anna","Krupa",4
-615,"csikor","Cezary","Sikorski",4
-616,"wkwiat","Waldemar","Kwiatkowski",10
-617,"msobol","Magdalena","Sobolewska",6
-618,"wmarci","Wioletta","Marciniak",4
-619,"jpasze","Janusz","Paszek",3
-620,"rleśni","Radosław","Leśniak",9
-621,"ksobol","Klaudia","Sobolewska",9
-623,"dolsze","Dariusz","Olszewski",6
-643,"tnowic","Teresa","Nowicka",2
-662,"jszewc","Justyna","Szewczyk",4
-682,"ałucza","Agata","Łuczak",9
-702,"dleśni","Damian","Leśniak",4
-745,"pmakow","Patrycja","Makowska",7
-746,"ujasiń","Urszula","Jasińska",10
-747,"jborko","Jakub","Borkowski ",6
-748,"ksobcz","Kinga","Sobczak",2
-749,"rjóźwi","Robert","Jóźwiak ",2
-750,"jrogow","Jan","Rogowski",8
-782,"rcieśl","Radosław","Cieślak",3
-784,"ltarno","Leszek","Tarnowski",1
-785,"pwojci","Paulina","Wojciechowska",3
-803,"jbedna","Janusz","Bednarski",5
-822,"jtomcz","Jarosław","Tomczak",8
-847,"eszyma","Ewa","Szymańska",9
-846,"bmikoł","Bartłomiej","Mikołajczak",9
-848,"iwiśni","Irena","Wiśniewska",10
-849,"kmalin","Klaudia","Malinowska",5
-850,"swilk","Sylwia","Wilk",9
+"ID","LOGIN","IMIE","NAZWISKO","DEPARTMENT_ID","STATUS"
+22,"djanik","Daniel","Janik",7,"nieaktywny"
+42,"pmarcz","Piotr","Marczak ",3,"aktywny"
+43,"dchmie","Damian","Chmiel ",6,"aktywny"
+44,"apiąte","Arkadiusz","Piątek",8,"aktywny"
+63,"jsawic","Julia","Sawicka",4,"aktywny"
+62,"iwróbl","Iwona","Wróblewska",4,"aktywny"
+21,"isikor","Izabela","Sikorska ",5,"aktywny"
+82,"kkubic","Krystian","Kubicki",8,"aktywny"
+222,"kmicha","Kinga","Michalak ",3,"aktywny"
+243,"askiba","Artur","Skiba",10,"nieaktywny"
+244,"mbaran","Mateusz","Baranowski",6,"aktywny"
+376,"emałec","Elżbieta","Małecka",4,"aktywny"
+377,"wpająk","Weronika","Pająk",2,"aktywny"
+378,"lkazim","Leszek","Kazimierczak",9,"aktywny"
+379,"mchrza","Monika","Chrzanowska",8,"aktywny"
+380,"jmicha","Justyna","Michalska",8,"aktywny"
+381,"pżukow","Patrycja","Żukowska",5,"aktywny"
+382,"awoźni","Agata","Woźniak",9,"aktywny"
+383,"dkołod","Dariusz","Kołodziejczyk ",6,"aktywny"
+384,"kmarci","Kamila","Marciniak",2,"aktywny"
+386,"kwitko","Kinga","Witkowska",6,"nieaktywny"
+387,"tbrzez","Tomasz","Brzeziński",4,"nieaktywny"
+388,"mwójci","Marta","Wójcik",9,"aktywny"
+389,"tmajew","Tomasz","Majewski",9,"aktywny"
+390,"rpolak","Ryszard","Polak",1,"aktywny"
+391,"mskowr","Mariusz","Skowroński",3,"aktywny"
+392,"djanko","Dariusz","Jankowski",1,"aktywny"
+393,"jwesoł","Janusz","Wesołowski",6,"aktywny"
+395,"zchmie","Zbigniew","Chmiel ",3,"aktywny"
+397,"mmicha","Magdalena","Michalska",9,"aktywny"
+398,"ujabło","Urszula","Jabłońska",3,"nieaktywny"
+399,"mgrzyb","Marta","Grzybowska",6,"aktywny"
+400,"zjasiń","Zbigniew","Jasiński",10,"nieaktywny"
+401,"idudek","Iwona","Dudek",7,"nieaktywny"
+402,"awiecz","Arkadiusz","Wieczorek",6,"nieaktywny"
+403,"mkaźmi","Mariusz","Kaźmierczak",2,"aktywny"
+404,"kkałuż","Krystian","Kałuża ",7,"aktywny"
+406,"mdąbro","Marek","Dąbrowski",5,"nieaktywny"
+407,"iadamc","Igor","Adamczak",3,"nieaktywny"
+142,"mkurow","Monika","Kurowska",6,"aktywny"
+182,"pchmie","Paulina","Chmielewska",8,"aktywny"
+282,"kkowal","Kacper","Kowalski",7,"aktywny"
+283,"wmikoł","Wioletta","Mikołajczyk",3,"aktywny"
+284,"aborow","Adrian","Borowski",6,"nieaktywny"
+285,"kcieśl","Kamil","Cieślik ",8,"aktywny"
+287,"mmróz","Mirosław","Mróz",4,"aktywny"
+288,"ajabło","Adam","Jabłoński",9,"aktywny"
+289,"aurbań","Artur","Urbański",8,"aktywny"
+290,"mbrzez","Marek","Brzeziński",10,"aktywny"
+291,"mczarn","Michał","Czarnecki",2,"aktywny"
+292,"mwiśni","Marzena","Wiśniewska",5,"aktywny"
+293,"eziółk","Edyta","Ziółkowska",9,"aktywny"
+294,"awróbe","Agata","Wróbel",6,"nieaktywny"
+296,"sczajk","Sebastian","Czajka",10,"aktywny"
+297,"awójci","Aleksandra","Wójcik",7,"aktywny"
+298,"iszulc","Ireneusz","Szulc",7,"aktywny"
+299,"wczarn","Wioletta","Czarnecka",1,"aktywny"
+300,"pmróz","Patryk","Mróz",2,"nieaktywny"
+301,"dkrupa","Dorota","Krupa",1,"aktywny"
+302,"abaran","Arkadiusz","Baranowski",7,"aktywny"
+303,"dpawli","Daniel","Pawlik",10,"aktywny"
+304,"spawło","Sebastian","Pawłowski",7,"aktywny"
+305,"kzakrz","Kamila","Zakrzewska",1,"aktywny"
+307,"wzalew","Weronika","Zalewska",4,"aktywny"
+309,"jleśni","Jakub","Leśniak",1,"aktywny"
+310,"mmacie","Michał","Maciejewski",8,"aktywny"
+311,"pwalcz","Paulina","Walczak",7,"aktywny"
+312,"gandrz","Grzegorz","Andrzejewski",4,"nieaktywny"
+102,"jrożek","Jan","Rożek",6,"aktywny"
+103,"rgórsk","Robert","Górski",4,"aktywny"
+122,"eszcze","Elżbieta","Szczepańska ",6,"aktywny"
+314,"mpająk","Marta","Pająk",9,"zablokowany"
+316,"lgajew","Leszek","Gajewski",2,"aktywny"
+317,"imarci","Irena","Marciniak",10,"aktywny"
+318,"akozło","Andrzej","Kozłowski",3,"aktywny"
+319,"rmikoł","Renata","Mikołajczyk",1,"aktywny"
+321,"jkołod","Janusz","Kołodziejczyk ",4,"aktywny"
+322,"epająk","Elżbieta","Pająk",7,"aktywny"
+324,"dkrawc","Dominika","Krawczyk",8,"aktywny"
+326,"kmikoł","Krzysztof","Mikołajczak",8,"aktywny"
+328,"apawla","Aleksandra","Pawlak ",10,"aktywny"
+329,"asikor","Anna Maria","Sikora",3,"aktywny"
+330,"sżukow","Sebastian","Żukowski",3,"nieaktywny"
+332,"ksobol","Krystian","Sobolewski ",1,"aktywny"
+333,"achrza","Anna Maria","Chrzanowska",6,"aktywny"
+334,"emikoł","Emilia","Mikołajczyk",5,"aktywny"
+336,"tjanow","Tadeusz","Janowski ",3,"aktywny"
+338,"jurban","Julia","Urbaniak",2,"aktywny"
+340,"mczerw","Maria","Czerwińska",5,"nieaktywny"
+341,"pjabło","Patryk","Jabłoński",5,"nieaktywny"
+342,"pmrozo","Patryk","Mrozowski ",10,"aktywny"
+343,"istola","Ireneusz","Stolarczyk ",3,"aktywny"
+344,"gmicha","Gabriela","Michalak ",4,"aktywny"
+345,"ikrzes","Igor","Krzesiński",3,"aktywny"
+347,"jleszc","Jacek","Leszczyński",6,"aktywny"
+348,"ljanik","Leszek","Janik",4,"aktywny"
+350,"rpawło","Robert","Pawłowski",3,"aktywny"
+352,"hwiśni","Henryk","Wiśniewski",7,"aktywny"
+353,"pjanik","Piotr","Janik",9,"aktywny"
+354,"mwiśni","Małgorzata","Wiśniewska",9,"nieaktywny"
+356,"mmazur","Marta","Mazur",1,"aktywny"
+357,"dwesoł","Dorota","Wesołowska",5,"nieaktywny"
+359,"lstola","Leszek","Stolarczyk ",10,"aktywny"
+361,"slis","Szymon","Lis",2,"nieaktywny"
+363,"gpawla","Grażyna","Pawlak ",1,"nieaktywny"
+364,"kkaczm","Karolina","Kaczmarczyk",8,"aktywny"
+366,"pskals","Patryk","Skalski",9,"aktywny"
+367,"amazur","Adam","Mazurek",8,"aktywny"
+368,"awrona","Adam","Wrona ",1,"aktywny"
+370,"bsosno","Bartosz","Sosnowski",7,"aktywny"
+371,"gwesoł","Grzegorz","Wesołowski",4,"aktywny"
+372,"knowak","Krzysztof","Nowakowski",3,"aktywny"
+375,"rjasiń","Ryszard","Jasiński",7,"aktywny"
+642,"rjanko","Renata","Jankowska",9,"aktywny"
+409,"rolsze","Ryszard","Olszewski",4,"nieaktywny"
+410,"imarci","Irena","Marciniak",10,"nieaktywny"
+412,"mborow","Mateusz","Borowski",9,"aktywny"
+413,"mkowal","Marzena","Kowalczyk",9,"aktywny"
+414,"mzalew","Marta","Zalewska",9,"nieaktywny"
+416,"rolsze","Radosław","Olszewski",7,"aktywny"
+417,"agrabo","Artur","Grabowski",1,"aktywny"
+419,"msikor","Marzena","Sikorska ",9,"aktywny"
+421,"rkowal","Renata","Kowalczyk",3,"aktywny"
+423,"mstępi","Mateusz","Stępień",4,"aktywny"
+424,"akrzes","Arkadiusz","Krzesiński",1,"aktywny"
+425,"lgajew","Leszek","Gajewski",6,"nieaktywny"
+427,"mszymc","Marek","Szymczak ",5,"aktywny"
+428,"mkołod","Mateusz","Kołodziej",3,"nieaktywny"
+430,"twesoł","Tadeusz","Wesołowski",4,"nieaktywny"
+431,"durban","Dominika","Urbaniak",5,"aktywny"
+434,"aszyma","Anna Maria","Szymańska",6,"aktywny"
+435,"pzalew","Patryk","Zalewski",6,"aktywny"
+436,"tzalew","Tomasz","Zalewski",7,"aktywny"
+438,"pbąkow","Patryk","Bąkowski",5,"aktywny"
+439,"jzieli","Joanna","Zielińska",9,"nieaktywny"
+441,"njanko","Norbert","Jankowski",1,"aktywny"
+442,"mmicha","Mateusz","Michalski",9,"aktywny"
+443,"gmalin","Grzegorz","Malinowski",4,"aktywny"
+444,"dadamc","Dariusz","Adamczak",9,"aktywny"
+447,"tgłowa","Tomasz","Głowacki",8,"aktywny"
+448,"mjastr","Maria","Jastrzębska ",3,"nieaktywny"
+450,"wwrona","Waldemar","Wrona ",7,"aktywny"
+451,"bgórec","Barbara","Górecka",4,"aktywny"
+452,"emakow","Ewelina","Makowska",2,"nieaktywny"
+454,"jszulc","Jacek","Szulc",5,"aktywny"
+455,"pwoźni","Patrycja","Woźniak",3,"aktywny"
+458,"ewalcz","Edyta","Walczak",7,"aktywny"
+459,"mbrzez","Marek","Brzeziński",8,"aktywny"
+461,"cskowr","Cezary","Skowroński",1,"aktywny"
+462,"awiśni","Adrian","Wiśniewski",4,"nieaktywny"
+463,"kmazur","Kinga","Mazur",5,"aktywny"
+465,"rtomcz","Robert","Tomczak",6,"aktywny"
+466,"jjaros","Jacek","Jarosz",5,"aktywny"
+467,"jsobcz","Justyna","Sobczak",6,"aktywny"
+468,"łpiotr","Łukasz","Piotrowski",6,"aktywny"
+469,"jzieli","Jolanta","Zielińska",4,"aktywny"
+470,"kmacie","Karolina","Maciejewska",1,"aktywny"
+471,"ajanko","Agnieszka","Jankowska",8,"aktywny"
+472,"mwesoł","Marta","Wesołowska",2,"aktywny"
+473,"kstank","Kinga","Stankiewicz",4,"aktywny"
+474,"emazur","Elżbieta","Mazur",3,"aktywny"
+475,"kzakrz","Krzysztof","Zakrzewski",8,"aktywny"
+476,"pkaczm","Paulina","Kaczmarek",1,"nieaktywny"
+477,"agłowa","Anita","Głowacka",1,"aktywny"
+478,"aszyma","Agnieszka","Szymańska",1,"aktywny"
+479,"nbaran","Natalia","Baran",3,"aktywny"
+480,"wświde","Wojciech","Świderski ",1,"aktywny"
+481,"arosiń","Anna Maria","Rosińska",9,"aktywny"
+482,"mmakow","Marta","Makowska",8,"aktywny"
+483,"wsobcz","Weronika","Sobczak",5,"nieaktywny"
+484,"kwłoda","Kamila","Włodarczyk ",8,"aktywny"
+485,"ppasie","Paulina","Pasieka",8,"aktywny"
+486,"mleszc","Mateusz","Leszczyński",8,"aktywny"
+487,"mrogow","Mariusz","Rogowski",7,"aktywny"
+488,"kkaczm","Krystyna","Kaczmarek",6,"nieaktywny"
+489,"dzalew","Daniel","Zalewski",3,"nieaktywny"
+490,"mjaros","Marek","Jarosz",3,"nieaktywny"
+491,"kpiotr","Katarzyna","Piotrowska",2,"aktywny"
+492,"kszyma","Karolina","Szymańska",7,"aktywny"
+493,"rświde","Rafał","Świderski ",9,"aktywny"
+494,"mwrona","Mirosław","Wrona ",4,"aktywny"
+495,"agrzyb","Agnieszka","Grzybowska",5,"aktywny"
+496,"ppolak","Piotr","Polak",7,"nieaktywny"
+497,"kszewc","Kamila","Szewczyk",4,"aktywny"
+498,"iwłoda","Igor","Włodarczyk",9,"aktywny"
+499,"rtarno","Radosław","Tarnowski",4,"nieaktywny"
+500,"jstola","Jacek","Stolarczyk ",1,"nieaktywny"
+501,"kpasie","Karolina","Pasieka",1,"aktywny"
+502,"tnowic","Teresa","Nowicka",5,"nieaktywny"
+503,"rkrzes","Ryszard","Krzesiński",4,"aktywny"
+504,"dkałuż","Dariusz","Kałuża ",10,"aktywny"
+505,"gmrozo","Grzegorz","Mrozowski ",9,"aktywny"
+506,"dborow","Dariusz","Borowicz ",1,"nieaktywny"
+507,"kcieśl","Krystian","Cieślik ",2,"aktywny"
+508,"mżukow","Marek","Żukowski",8,"aktywny"
+509,"ikrawc","Ireneusz","Krawczak",5,"nieaktywny"
+510,"nchmie","Norbert","Chmiel ",6,"aktywny"
+511,"akozło","Agnieszka","Kozłowska",3,"aktywny"
+512,"ssobol","Sylwia","Sobolewska",4,"nieaktywny"
+513,"rświde","Ryszard","Świderski ",4,"aktywny"
+514,"jkrzes","Jarosław","Krzesiński",2,"aktywny"
+515,"gmarci","Gabriela","Marciniak",2,"aktywny"
+516,"polsze","Paweł","Olszewski",9,"aktywny"
+517,"kmakow","Kazimierz","Makowski",1,"aktywny"
+518,"jwesoł","Justyna","Wesołowska",1,"nieaktywny"
+519,"hjanik","Henryk","Janik",9,"aktywny"
+520,"akrzes","Andrzej","Krzesiński",8,"aktywny"
+521,"jkrupa","Julia","Krupa",8,"aktywny"
+522,"ljasiń","Leszek","Jasiński",7,"nieaktywny"
+523,"ezawad","Emilia","Zawadzka",2,"aktywny"
+524,"itomcz","Igor","Tomczak",2,"aktywny"
+525,"iczerw","Iwona","Czerwińska",4,"aktywny"
+526,"kwojci","Karolina","Wojciechowska",3,"aktywny"
+527,"pdudek","Patrycja","Dudek",8,"aktywny"
+528,"apasie","Anna Maria","Pasieka",7,"aktywny"
+529,"rbaran","Ryszard","Baranowski",1,"aktywny"
+530,"jłucza","Julia","Łuczak",2,"aktywny"
+531,"mkubic","Marzena","Kubicka",1,"aktywny"
+532,"isosno","Ireneusz","Sosnowski",1,"aktywny"
+533,"dgłowa","Damian","Głowacki",6,"aktywny"
+534,"jbrzez","Jacek","Brzeziński",7,"aktywny"
+535,"jmalin","Janusz","Malinowski",1,"aktywny"
+537,"izawad","Izabela","Zawadzka",8,"aktywny"
+538,"kwesoł","Katarzyna","Wesołowska",6,"aktywny"
+539,"dmrozo","Dariusz","Mrozowski ",5,"aktywny"
+540,"kgórsk","Kamila","Górska",3,"aktywny"
+541,"kczajk","Kinga","Czajkowska",3,"aktywny"
+542,"ssikor","Sylwia","Sikora",9,"aktywny"
+543,"mmikoł","Marzena","Mikołajczyk",9,"aktywny"
+544,"mmadej","Marzena","Madej",6,"aktywny"
+546,"zskiba","Zbigniew","Skiba",3,"aktywny"
+547,"mskals","Mariusz","Skalski",5,"aktywny"
+548,"jurbań","Jarosław","Urbański",9,"aktywny"
+549,"awłoda","Anna Maria","Włodarczyk ",5,"aktywny"
+550,"uwilk","Urszula","Wilk",3,"aktywny"
+551,"epiotr","Ewelina","Piotrowska",4,"aktywny"
+552,"akwiat","Agnieszka","Kwiatkowska",1,"aktywny"
+554,"awalcz","Anita","Walczak",6,"aktywny"
+555,"abedna","Aleksandra","Bednarska",2,"aktywny"
+556,"jzakrz","Jakub","Zakrzewski",5,"aktywny"
+557,"jwiśni","Janusz","Wiśniewski",8,"aktywny"
+558,"jzawad","Julia","Zawadzka",1,"aktywny"
+559,"mkołod","Mirosław","Kołodziej",7,"nieaktywny"
+560,"mduda","Monika","Duda",9,"aktywny"
+561,"mskowr","Marek","Skowroński",3,"aktywny"
+563,"jsawic","Justyna","Sawicka",9,"aktywny"
+564,"hcieśl","Henryk","Cieślak",10,"aktywny"
+565,"ekozak","Elżbieta","Kozak",2,"aktywny"
+566,"dstępi","Daniel","Stępień",3,"aktywny"
+567,"aczarn","Aleksandra","Czarnecka",1,"aktywny"
+568,"jwesoł","Janusz","Wesołowski",2,"aktywny"
+569,"krogow","Kacper","Rogowski",7,"aktywny"
+570,"anowak","Agata","Nowak",6,"aktywny"
+572,"mrogow","Mirosław","Rogowski",3,"nieaktywny"
+573,"dszymc","Daniel","Szymczak ",10,"nieaktywny"
+574,"mmalin","Mariusz","Malinowski",7,"nieaktywny"
+575,"mwróbe","Maria","Wróbel",4,"aktywny"
+576,"pmróz","Paweł","Mróz",1,"aktywny"
+577,"akaczm","Aleksandra","Kaczmarczyk",9,"aktywny"
+578,"mkról","Małgorzata","Król",7,"nieaktywny"
+579,"amikoł","Agnieszka","Mikołajczyk",10,"aktywny"
+580,"ajanko","Anna Maria","Jankowska",9,"aktywny"
+582,"aborow","Alicja","Borowska ",1,"aktywny"
+583,"dzawad","Dorota","Zawadzka",8,"aktywny"
+584,"iwitko","Irena","Witkowska",5,"aktywny"
+585,"łkwiat","Łukasz","Kwiatkowski",8,"aktywny"
+586,"zgórsk","Zbigniew","Górski",3,"aktywny"
+587,"kmalin","Katarzyna","Malinowska",6,"aktywny"
+588,"mkrawc","Małgorzata","Krawczyk",3,"aktywny"
+590,"jzając","Joanna","Zając",7,"aktywny"
+591,"jkubic","Jan","Kubicki",6,"aktywny"
+592,"aolsze","Alicja","Olszewska",1,"aktywny"
+593,"mzając","Monika","Zając",8,"aktywny"
+594,"mczarn","Mirosław","Czarnecki",3,"aktywny"
+595,"jkrzes","Jakub","Krzesiński",3,"aktywny"
+596,"ilewan","Ireneusz","Lewandowski",4,"nieaktywny"
+597,"wżukow","Waldemar","Żukowski",1,"aktywny"
+599,"gkrzes","Grzegorz","Krzesiński",8,"aktywny"
+600,"bgłowa","Beata","Głowacka",1,"aktywny"
+601,"kkraje","Klaudia","Krajewska ",9,"aktywny"
+602,"molsze","Monika","Olszewska",6,"nieaktywny"
+603,"kłukas","Katarzyna","Łukasik",1,"aktywny"
+604,"mcieśl","Michał","Cieślik ",4,"aktywny"
+605,"aszulc","Adam","Szulc",10,"aktywny"
+606,"apasze","Andrzej","Paszek",8,"aktywny"
+608,"mbaran","Marek","Baranowski",4,"aktywny"
+609,"mmicha","Marek","Michalski",3,"aktywny"
+610,"atomas","Agata","Tomaszewska",2,"aktywny"
+611,"skania","Sebastian","Kania",4,"aktywny"
+612,"jwrona","Jan","Wrona ",3,"aktywny"
+613,"mświde","Marek","Świderski ",2,"aktywny"
+614,"akrupa","Anna","Krupa",4,"aktywny"
+615,"csikor","Cezary","Sikorski",4,"aktywny"
+617,"msobol","Magdalena","Sobolewska",6,"nieaktywny"
+618,"wmarci","Wioletta","Marciniak",4,"aktywny"
+619,"jpasze","Janusz","Paszek",3,"aktywny"
+620,"rleśni","Radosław","Leśniak",9,"aktywny"
+621,"ksobol","Klaudia","Sobolewska",9,"aktywny"
+623,"dolsze","Dariusz","Olszewski",6,"aktywny"
+643,"tnowic","Teresa","Nowicka",2,"aktywny"
+662,"jszewc","Justyna","Szewczyk",4,"aktywny"
+682,"ałucza","Agata","Łuczak",9,"nieaktywny"
+745,"pmakow","Patrycja","Makowska",7,"aktywny"
+746,"ujasiń","Urszula","Jasińska",10,"aktywny"
+747,"jborko","Jakub","Borkowski ",6,"aktywny"
+748,"ksobcz","Kinga","Sobczak",2,"aktywny"
+749,"rjóźwi","Robert","Jóźwiak ",2,"aktywny"
+750,"jrogow","Jan","Rogowski",8,"nieaktywny"
+782,"rcieśl","Radosław","Cieślak",3,"nieaktywny"
+784,"ltarno","Leszek","Tarnowski",1,"aktywny"
+785,"pwojci","Paulina","Wojciechowska",3,"aktywny"
+822,"jtomcz","Jarosław","Tomczak",8,"aktywny"
+847,"eszyma","Ewa","Szymańska",9,"aktywny"
+846,"bmikoł","Bartłomiej","Mikołajczak",9,"aktywny"
+848,"iwiśni","Irena","Wiśniewska",10,"aktywny"
+849,"kmalin","Klaudia","Malinowska",5,"aktywny"
+850,"swilk","Sylwia","Wilk",9,"nieaktywny"
+308,"akraje","Alicja","Krajewska ",10,"nieaktywny"
+313,"agórec","Agnieszka","Górecka",2,"aktywny"
+162,"mtomcz","Marcin","Tomczak",6,"nieaktywny"
+315,"hstola","Henryk","Stolarczyk ",4,"aktywny"
+320,"jpolak","Jarosław","Polak",2,"aktywny"
+323,"ibedna","Igor","Bednarski",2,"nieaktywny"
+327,"alewan","Alicja","Lewandowska",6,"aktywny"
+331,"jleszc","Jakub","Leszczyński",8,"zablokowany"
+335,"adąbro","Anita","Dąbrowska",9,"aktywny"
+339,"mmajew","Mirosław","Majewski",9,"aktywny"
+202,"wwawrz","Weronika","Wawrzyniak",5,"aktywny"
+346,"mjasiń","Magdalena","Jasińska",9,"aktywny"
+351,"twróbl","Tadeusz","Wróblewski",10,"aktywny"
+355,"akowal","Anna","Kowalska",1,"aktywny"
+358,"wurban","Weronika","Urbaniak",1,"aktywny"
+362,"ibaran","Izabela","Baran",2,"aktywny"
+365,"amicha","Adam","Michalski",5,"aktywny"
+369,"kbaran","Klaudia","Baran",3,"aktywny"
+373,"gjaros","Grzegorz","Jarosz",5,"nieaktywny"
+783,"aszymc","Artur","Szymczak ",1,"aktywny"
+411,"mpawło","Michał","Pawłowski",9,"aktywny"
+415,"mbaran","Maria","Baran",2,"aktywny"
+418,"kpiotr","Kamil","Piotrowski",6,"nieaktywny"
+422,"igórsk","Izabela","Górska",10,"nieaktywny"
+426,"jjasiń","Jakub","Jasiński",2,"nieaktywny"
+429,"ikaspr","Irena","Kasprzak",1,"nieaktywny"
+433,"mgajew","Maria","Gajewska",10,"aktywny"
+437,"pmrozo","Paweł","Mrozowski ",7,"aktywny"
+440,"dczarn","Damian","Czarnecki",2,"aktywny"
+445,"kjanow","Krzysztof","Janowski ",8,"aktywny"
+449,"kszcze","Karolina","Szczepańska ",6,"aktywny"
+453,"mpolak","Marcin","Polak",8,"aktywny"
+457,"jwrona","Jacek","Wrona ",6,"aktywny"
+460,"pleśni","Piotr","Leśniak",5,"aktywny"
+464,"jtarno","Janusz","Tarnowski",4,"aktywny"
+408,"mkołod","Marcin","Kołodziejczyk ",3,"zablokowany"
+245,"jsikor","Jolanta","Sikora",8,"nieaktywny"
+385,"ipiotr","Ireneusz","Piotrowski",6,"aktywny"
+396,"ksobcz","Krystyna","Sobczak",9,"aktywny"
+405,"kgórsk","Krystyna","Górska",6,"aktywny"
+286,"jpawli","Jacek","Pawlik",6,"aktywny"
+295,"wwawrz","Weronika","Wawrzyniak",5,"nieaktywny"
+306,"kjaros","Krzysztof","Jarosz",4,"aktywny"
+262,"igajew","Irena","Gajewska",7,"aktywny"
+325,"jkwiat","Jan","Kwiatkowski",7,"nieaktywny"
+337,"ljanow","Leszek","Janowski ",1,"aktywny"
+349,"spasie","Sylwia","Pasieka",2,"aktywny"
+360,"kczajk","Karolina","Czajkowska",10,"aktywny"
+374,"eczajk","Emilia","Czajkowska",5,"nieaktywny"
+420,"gpiase","Grzegorz","Piasecki",9,"aktywny"
+432,"jkaźmi","Jacek","Kaźmierczak",5,"aktywny"
+446,"rparty","Robert","Partyka",1,"aktywny"
+456,"dmrozo","Daniel","Mrozowski ",2,"aktywny"
+536,"wpawli","Waldemar","Pawlik",7,"aktywny"
+545,"atomcz","Adam","Tomczak",4,"aktywny"
+553,"pkozak","Paulina","Kozak",5,"aktywny"
+562,"jkubia","Jarosław","Kubiak",3,"aktywny"
+571,"dgrzyb","Dominika","Grzybowska",1,"aktywny"
+581,"tpolak","Tadeusz","Polak",5,"aktywny"
+589,"ipiąte","Igor","Piątek",8,"nieaktywny"
+598,"mczarn","Marcin","Czarnecki",9,"aktywny"
+607,"iadamc","Irena","Adamczyk",1,"aktywny"
+616,"wkwiat","Waldemar","Kwiatkowski",10,"aktywny"
+702,"dleśni","Damian","Leśniak",4,"nieaktywny"
+803,"jbedna","Janusz","Bednarski",5,"aktywny"
